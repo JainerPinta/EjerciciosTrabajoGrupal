@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="TrabajoClaseAndGrupal.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Latch.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Latch.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Latch.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MaquinaDeEstados.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MaquinaDeEstados.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MaquinaDeEstados.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MaquinaDeEstados.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MaquinaDeEstados.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MaquinaDeEstados.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MaquinaDeEstados2.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MaquinaDeEstados2.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MaquinaDeEstados2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MaquinaDeEstados2.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MaquinaDeEstados2.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MaquinaDeEstados2.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MaquinaDeEstados2_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MaquinaDeEstados2_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MaquinaDeEstados3.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MaquinaDeEstados3.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MaquinaDeEstados3.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MaquinaDeEstados3.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MaquinaDeEstados3.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MaquinaDeEstados3.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MaquinaDeEstados3_envsettings.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MaquinaDeEstados3_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MaquinaDeEstados3_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MaquinaDeEstados3_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MaquinaDeEstados_envsettings.html"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MaquinaDeEstados_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MaquinaDeEstados_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MaquinaDeEstados_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TestLatchRecurrente_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="latchProcess.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="latchProcess.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="latchProcess.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="latchProcess.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="latchProcess.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="latchProcess.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="latchProcess.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="latchProcess.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="latchProcess.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="latchProcess.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="latchProcess.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="latchProcess.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="latchProcess.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="latchProcess.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="latchProcess.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="latchProcess.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="latchProcess.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="latchProcess.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="latchProcess.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="latchProcess_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="latchProcess_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="latchProcess_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="latchProcess_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="latchProcess_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="latchProcess_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="latchProcess_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="latchProcess_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="latchProcess_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="latchProcess_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="latchProcess_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="latchProcess_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="latchProcess_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="latchProcess_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="latchRecurrente.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="latchRecurrente.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="latchRecurrente.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="latchRecurrente.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="latchRecurrente.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="latchRecurrente_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1639670755" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1639670755">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673645" xil_pn:in_ck="-7312848994071213908" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1639673645">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="TestLatchProcess.vhd"/>
+      <outfile xil_pn:name="TestLatchRecurrente.vhd"/>
+      <outfile xil_pn:name="latchProcess.vhd"/>
+      <outfile xil_pn:name="latchRecurrente.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1639670755" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-9044832904953873877" xil_pn:start_ts="1639670755">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1639670755" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="2623569966022418569" xil_pn:start_ts="1639670755">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1639670755" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5032685862786735460" xil_pn:start_ts="1639670755">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673649" xil_pn:in_ck="-7312848994071213908" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1639673649">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="TestLatchProcess.vhd"/>
+      <outfile xil_pn:name="TestLatchRecurrente.vhd"/>
+      <outfile xil_pn:name="latchProcess.vhd"/>
+      <outfile xil_pn:name="latchRecurrente.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673649" xil_pn:in_ck="-7312848994071213908" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-8900218426119425380" xil_pn:start_ts="1639673649">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1639670517" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1639670517">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673677" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-6608927162607598956" xil_pn:start_ts="1639673677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673677" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-3465494824805809124" xil_pn:start_ts="1639673677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639670517" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1639670517">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673677" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-6397220812174598346" xil_pn:start_ts="1639673677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639670517" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1639670517">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673677" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="1242073863200798502" xil_pn:start_ts="1639673677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673692" xil_pn:in_ck="6809375868071467355" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="5559327586577206307" xil_pn:start_ts="1639673677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="latchProcess.lso"/>
+      <outfile xil_pn:name="latchProcess.ngc"/>
+      <outfile xil_pn:name="latchProcess.ngr"/>
+      <outfile xil_pn:name="latchProcess.prj"/>
+      <outfile xil_pn:name="latchProcess.stx"/>
+      <outfile xil_pn:name="latchProcess.syr"/>
+      <outfile xil_pn:name="latchProcess.xst"/>
+      <outfile xil_pn:name="latchProcess_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673692" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="5612638171929231019" xil_pn:start_ts="1639673692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673703" xil_pn:in_ck="6809375868071458609" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="8579385668709539703" xil_pn:start_ts="1639673692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="latchProcess.bld"/>
+      <outfile xil_pn:name="latchProcess.ngd"/>
+      <outfile xil_pn:name="latchProcess_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673739" xil_pn:in_ck="6809375868071458610" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="2100985583056581773" xil_pn:start_ts="1639673703">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="latchProcess.pcf"/>
+      <outfile xil_pn:name="latchProcess_map.map"/>
+      <outfile xil_pn:name="latchProcess_map.mrp"/>
+      <outfile xil_pn:name="latchProcess_map.ncd"/>
+      <outfile xil_pn:name="latchProcess_map.ngm"/>
+      <outfile xil_pn:name="latchProcess_map.xrpt"/>
+      <outfile xil_pn:name="latchProcess_summary.xml"/>
+      <outfile xil_pn:name="latchProcess_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673787" xil_pn:in_ck="6025925649777381195" xil_pn:name="TRANEXT_par_virtex5" xil_pn:prop_ck="-2283627392121029586" xil_pn:start_ts="1639673739">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="latchProcess.ncd"/>
+      <outfile xil_pn:name="latchProcess.pad"/>
+      <outfile xil_pn:name="latchProcess.par"/>
+      <outfile xil_pn:name="latchProcess.ptwx"/>
+      <outfile xil_pn:name="latchProcess.unroutes"/>
+      <outfile xil_pn:name="latchProcess.xpi"/>
+      <outfile xil_pn:name="latchProcess_pad.csv"/>
+      <outfile xil_pn:name="latchProcess_pad.txt"/>
+      <outfile xil_pn:name="latchProcess_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1639673787" xil_pn:in_ck="6809375868071458478" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1639673768">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="latchProcess.twr"/>
+      <outfile xil_pn:name="latchProcess.twx"/>
+    </transform>
+    <transform xil_pn:end_ts="1639670722" xil_pn:name="TRAN_postSynthesisSimModel" xil_pn:prop_ck="-8968903750178530222" xil_pn:start_ts="1639670719">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="InputAdded"/>
+    </transform>
+  </transforms>
+
+</generated_project>
