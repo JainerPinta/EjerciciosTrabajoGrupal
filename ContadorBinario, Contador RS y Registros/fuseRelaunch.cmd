@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/diego/Documentos/Arquitectura de Ordenadores/traClase/testBench_ResetEnable_isim_beh.exe" -prj "/home/diego/Documentos/Arquitectura de Ordenadores/traClase/testBench_ResetEnable_beh.prj" "work.testBench_ResetEnable" 
