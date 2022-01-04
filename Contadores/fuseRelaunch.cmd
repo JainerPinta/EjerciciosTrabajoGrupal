@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Desktop/Proyectos/EJercicios/TB_GENERIC_isim_beh.exe" -prj "/home/ise/Desktop/Proyectos/EJercicios/TB_GENERIC_beh.prj" "work.TB_GENERIC" 
